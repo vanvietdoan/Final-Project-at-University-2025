@@ -1,0 +1,14 @@
+Họ tên:  Bác sĩ Phạm Thị Linh
+Email: sasdfg@gmail.com
+Chức danh: Bác sĩ dược
+Chuyên môn: Y học cổ truyền
+Trạng thái: Đang hoạt động
+Vai trò: Expert
+
+Thông tin bổ sung:
+- Avatar: http://medicalplant.apivui.click/uploads/avatars/avatar-1748538944719-335260619.webp
+- Bằng cấp: http://medicalplant.apivui.click/uploads/proofs/proof-1747670129653-942804826.pdf
+
+Thời gian:
+- Tạo lúc: 2025-04-09T10:04:17.000Z
+- Cập nhật: 2025-05-29T17:16:18.000Z

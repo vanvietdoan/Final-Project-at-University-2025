@@ -1,0 +1,71 @@
+Tên tiếng Việt: Thanh hao hoa vàng
+Tên tiếng Anh: Artemisia annua
+Thời gian cập nhật: 2025-05-19T14:03:50.000Z
+
+Phân loại:
+- Ngành: Ngành Ngọc lan
+- Lớp: Hai lá mầm
+- Bộ: Cúc (Asterales)
+- Họ: Cúc (Asteraceae)
+- Chi: Artemisia
+- Loài: Artemisia annua (Thanh hao hoa vàng)
+
+Mô tả: Thanh hao hoa vàng là cây dược liệu thân thảo, sống hàng năm, hoa màu vàng ở đầu ngọn nở vào mùa thu, lá cây vò ra có mùi thơm đặc biệt.
+
+Cây sống lâu năm. Mọc hoang thành từng đám ở vùng đồi núi ven suối, ven sông. Cao từ 1,5-2m. Lá xẻ lông chim 2 lần, thành phiến hẹp, phủ lông mềm, có mùi thơm. Cụm hoa hình cầu hợp thành một chùy kép. Hoa màu vàng nhạt, mỗi cụm hoa gồm 6 hoa: Giữa là hoa lưỡng tính, xung quanh là hoa cái. Hoa chỉ có kích thước 0,5-1mm. Quả bế hình trứng, dài 1mm. Mặt vỏ có tuyến chứa tinh dầu.
+
+Công dụng: Theo y học cổ truyền
+Theo y học cổ truyền, cây Thanh hao hoa vàng có vị đắng, nhạt, tính mát. Quy kinh Can, Đởm.
+
+Tác dụng Thanh nhiệt tiêu độc, khu phong chỉ dương, thanh nhiệt lương huyết. Thanh nhiệt, thoái nhiệt hơn khi dùng sống, thanh nhiệt khi sao chế, tư âm thoái nhiệt khi chế với máu ba ba.
+
+Chữa chứng ra mồ hôi trộm, sốt âm ỉ lâu ngày (lao nhiệt). Không toát được mồ hôi, tiểu máu, chảy máu cam, kích thích tiêu hóa.
+
+Chữa phong thấp, mệt mỏi, đau nhức cơ thể.
+
+Theo y học hiện đại
+Trong điều trị sốt rét
+
+Artemisinin là thuốc chống sốt rét, được phân lập từ cây Thanh cao hoa vàng (Artemisia annua L.), họ Asteraceae. Artemisinin có tác dụng ức chế và tiêu diệt ký sinh trùng, trong đó có ký sinh trùng sốt rét Plasmodium falciparum. Artemisinin tạo ra sự thanh thải ký sinh trùng nhanh chóng, nhanh hơn đáng kể so với các loại thuốc chống sốt rét khác, điều này rất quan trọng về mặt lâm sàng, đặc biệt trong các trường hợp sốt rét ác tính và thể não.
+
+Tác dụng phòng chống dịch bệnh Covid-19
+
+Trước khi bùng phát COVID-19, đã có một số nghiên cứu xoay quanh đặc tính kháng virus của thanh hao hoa vàng như khả năng giảm thiểu sự sao chép của virus herpes; ức chế virus viêm gan B và C; chống lại một số loại virus tiêu chảy ở bò, virus Epstein-Barr, virus SARS xuất hiện vào năm 2002.
+
+Năm 2003, các nhà khoa học thuộc Học viện khoa học Trung Quốc đã chỉ ra artemisinin trong thanh hao hoa vàng là một trong những ứng cử viên để điều trị coronavirus (SARS-CoV). Nó ức chế sự nhân lên của coronavirus và cho thấy hoạt tính kháng virus với giá trị nồng độ hiệu quả 50% (EC50) là 34,5 ± 2,6 μg/ml và nồng độ độc tế bào 50% (CC50) là 1,053 ± 92,8 μg/ml.
+
+Artemisinin có thể trực tiếp ngăn chặn sự nhân lên của virus. Artemisinin và các dẫn xuất của nó đã được chứng minh là hạn chế cả virus DNA và RNA. Trong bộ gen của SARS-CoV-2 có một gen thiết yếu là RdRp (RNA phụ thuộc RNA polymerase), trên mô hình RdRp nhận thấy rằng artesunate có thể tác dụng tại trung tâm hoạt động của RdRp trên SARS-Cov-2, qua đó có thể giải thích một phần cơ chế mà artesunate ngăn chặn virus. Artesunate làm giảm biểu hiện của các yếu tố gây viêm. Vì thế, tác dụng chống viêm và điều hòa miễn dịch cũng có thể là một trong những cơ chế quan trọng của chiết xuất Thanh hao hoa vàng trong điều trị Covid-19.
+
+Gần đây, bệnh hô hấp cấp tính do coronavirus 2 (SARS-CoV-2), loại virus nguy hiểm với tốc độ lây lan cao và có thể gây chết người. Do thanh hao hoa vàng hoạt tính kháng virus phổ rộng, trong đó có SARS-CoV-1, nhiều nhà khoa học đã đặt ra câu hỏi liệu thanh hao có ức chế được SARS-CoV-2 hay không? Trong các nghiên cứu gần đây về tác dụng chống COVID-19, thanh hao hoa vàng được đánh giá là loại dược liệu tiềm năng.
+
+Trong điều trị chống ung thư
+
+Thanh hao hoa vàng có tác dụng. chống ung thư, hoạt động theo cách đa hiệu chống lại các khối u. Phản ứng tế bào của dược liệu, hoạt chất chính (artemisinin) và các dẫn xuất của nó (dihydroartemisinin, artesunate, artemether, arteether) đối với tế bào ung thư bao gồm stress oxy hóa, sửa chữa DNA, gây chết theo chương trình, ức chế tăng sinh mạnh các con đường dẫn truyền tín hiệu liên quan đến khối u. Các nghiên cứu in vitro và in vivo đã chứng minh tác dụng này trên các bệnh ung thư vú, ung thư tiền liệt tuyến, ung thư phổi, ung thư xương, bệnh bạch cầu cấp tính, ung thư đại tràng…
+
+Ngoài tác dụng chống sốt rét, chống virus, điều hòa miễn dịch, chống ung thư nói trên, thanh hao hoa vàng đã được nghiên cứu đánh giá các tác dụng khác như chống nhiều loại ký sinh trùng, kháng khuẩn, kháng nấm, chống viêm… Đây là loại dược liệu quý, nhiều tiềm năng sinh học, cần phải được bảo tồn và phát triển tạo nguồn nguyên liệu chất lượng cho ngành y dược.
+
+Hướng dẫn sử dụng: Liều dùng & cách dùng
+Liều dùng thường khoảng 6-20g.
+
+Không nên sắc lâu khi dùng thuốc sắc, bệnh nhân có tỳ vị hư hàn như dễ tiêu chảy, ra nhiều mồ hôi cần lưu ý nên hỏi ý kiến thầy thuốc trước khi dùng.
+
+Bài thuốc kinh nghiệm
+Lợi mật, cắt cơn sốt rét
+
+Bài 1: Thanh hao 63g. Sắc uống. Chữa sốt rét.
+
+Bài 2: Thang thanh hao miết giáp: Thanh hao 12g, miết giáp 16g, tri mẫu 12g, sinh địa 20g, đơn bì 12g.
+
+Sắc uống, trị sốt rét; có thể dùng cho bệnh do ôn nhiệt, đêm nóng sáng mát, sốt lui không có mồ hôi, lưỡi đỏ rêu vàng, môi miệng khô ráo.
+
+Bài 3: Cây thanh hao 100g, lá thường sơn 100g, thảo quả 80g, hà thủ ô trắng 50g, hạt cau 30g, vỏ chanh 30g, miết giáp 20g, cam thảo nam 30g. Tán bột. Ngày dùng 40g. Trị sốt rét.
+
+Chữa sẩn rát trên da, ghẻ ngứa, mụn độc do đơn mẩn, bỏng
+
+Lá thanh hao non giã lấy nước, bôi ngoài.
+
+Trị kinh phong cấp tính của trẻ em
+
+Thanh hao trùng vài chục con (40g), chu sa 0,4g. Nghiền chung làm hoàn to bằng hạt thóc (2g). Trẻ còn bú mẹ, ngày uống 3 - 5 lần, mỗi lần 1 - 2 hoàn, mài tan với sữa mẹ hoặc lấy câu đằng 4g, thuyền thoái 8g, cam thảo 4g, sắc với nước, hòa với viên hoàn cho uống.
+
+Kiêng kỵ: Người tỳ vị hư hàn dùng thận trọng.

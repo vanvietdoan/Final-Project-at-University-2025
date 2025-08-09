@@ -1,0 +1,38 @@
+Tên bệnh: Cảm cúm
+Thời gian cập nhật: 2025-05-06T14:06:09.000Z
+
+Mô tả: Cúm (Flu) là một dạng bệnh nhiễm vi rút cấp tính. Bệnh phát triển khi vi rút cúm lây nhiễm và tấn công vào hệ hô hấp đường mũi, cổ họng, các ống phế quản và có thể bao gồm cả phổi. Cúm phần lớn diễn biến nhẹ và người bệnh có thể tự hồi phục trong khoảng 2-7 ngày. Tuy nhiên ở một số trường hợp đặc biệt như người bị suy giảm miễn dịch, người mắc các bệnh mạn tính,… cúm có thể trở nên nguy hiểm và gây ra các biến chứng nặng có thể dẫn tới tử vong.
+
+Cúm có thể tấn công mọi đối tượng, ở người lớn tỷ lệ là 5-10%, trẻ em là 20-30%. Điểm nguy hiểm của cúm là khả năng lây nhiễm cao dẫn đến nguy cơ bùng dịch. Ở các vùng nhiệt đới như Việt Nam, cúm thường xảy ra vào mùa mưa nhưng vẫn có thể phát tán vào bất kỳ thời điểm nào trong năm.
+
+Triệu chứng: Cảm thấy ớn lạnh, đổ mồ hôi
+Ho khan,
+Viêm họng,
+Nghẹt mũi, chảy nước mũi
+Đau đầu,
+Mệt mỏi, khó thở
+Nôn mửa, tiêu chảy
+
+Hướng dẫn điều trị: 1. Nghỉ ngơi
+Thông thường bệnh cúm có thể tự khỏi sau thời gian ngắn khi người bệnh dành thời gian nghỉ ngơi và uống nhiều nước để cơ thể dần chống lại sự nhiễm trùng. Không nên hút thuốc lá hoặc uống rượu trong thời gian này; cũng nên hạn chế trà, cà phê, các đồ uống có chất kích thích,… để tránh làm cơ thể thêm mệt mỏi.
+
+Về dinh dưỡng, người bệnh cúm nên tăng cường, bổ sung các loại rau và trái cây có màu xanh đậm, đỏ và vàng để nâng cao hệ miễn dịch, hỗ trợ hồi phục sức khỏe nhanh chóng.
+
+2. Dùng thuốc giảm đau
+Việc uống các thuốc giảm đau không kê đơn cần phải cân nhắc. Trẻ em và thanh thiếu niên đang hồi phục sau những triệu chứng gần giống cúm không nên dùng aspirin để phòng ngừa nguy cơ mắc hội chứng Reye – tình trạng tổn thương não cấp tính, gan thoái hóa mỡ sau khi nhiễm vi rút cấp tính.
+
+Người bệnh cúm có thể sử dụng các loại thuốc trị cảm, thuốc nhỏ hoặc thuốc xịt không kê đơn để giảm bớt một số triệu chứng cúm khó chịu như ho, sổ mũi, nhức đầu,…
+
+3. Dùng thuốc kháng vi rút
+Với người bị nhiễm trùng nặng hoặc có nguy cơ biến chứng cao, sử dụng thuốc kháng vi rút là phương pháp điều trị cúm cần thiết. Dùng thuốc kịp thời, đúng cách giúp giảm mức độ các triệu chứng và rút ngắn thời gian nhiễm bệnh. Đây cũng là cách ngăn ngừa các biến chứng cúm tiến triển – nhất là ở người lớn tuổi hoặc người bị suy giảm hệ thống miễn dịch.
+
+Hiện có 3 loại thuốc kháng vi rút được khuyên dùng trong điều trị cúm bao gồm: oseltamivir (Tamiflu®), zanamivir (Relenza®) và peramivir (Rapivab®). Các thuốc này hoạt động dựa theo nguyên tắc làm gián đoạn chức năng men neuraminidase trên bề mặt vi rút và ngăn chặn sự giải phóng các phần tử vi rút từ các tế bào vật chủ bị nhiễm bệnh.
+
+Các thuốc kháng vi rút này có thể sử dụng cho các trường hợp mắc cúm A và B và có tác động tốt nhất trong vòng 48 tiếng sau khi người bệnh bắt đầu có các triệu chứng cúm. Vì thế việc chẩn đoán và điều trị sớm là điều vô cùng quan trọng.
+
+Dùng thuốc kháng vi rút có thể gây ra tác dụng phụ như buồn nôn, nôn ói ở một số người. Người bệnh nên dùng thuốc trong khi ăn để có thể giảm bớt các tác dụng phụ này.
+
+4. Thuốc kháng sinh
+Thuốc kháng sinh không có tác dụng trong các điều trị bệnh cúm vì không thể tiêu diệt được vi rút gây bệnh.
+
+Tuy nhiên cúm có thể làm suy yếu hệ miễn dịch khiến người bệnh dễ mắc các bệnh nhiễm trùng khác do vi khuẩn nên trong trường hợp nhận thấy tình trạng cúm quay trở lại sau khi đã thuyên giảm, bạn nên đi kiểm tra sức khỏe càng sớm càng tốt. Lúc này thuốc kháng sinh có thể sẽ cần dùng đến để ngăn ngừa nguy cơ nhiễm trùng.
